@@ -55,7 +55,7 @@ stereoCameraCalibrator
 
 5.将数据写入binocular vision.ipynb的Cell2的USB_Camera类中，self.focal_length可以不用管。
 
-**注意：**MATLAB界面的参数矩阵是按列排列的，也就是说每个分号隔开的是每一列而不是每一行，填写时需要注意！
+**注意：** MATLAB界面的参数矩阵是按列排列的，也就是说每个分号隔开的是每一列而不是每一行，填写时需要注意！
 
 6.现在万事俱备，按顺序执行binocular vision.ipynb文件即可。
 
