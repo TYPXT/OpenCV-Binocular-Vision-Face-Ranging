@@ -31,7 +31,7 @@ MATLAB 2022a Update5
 1. 我使用了两个摄像头，拥有两个USB接口，如果你是两个摄像头整合到一根USB线中，请修改Capture.ipynb中Cell2的部分，注意摄像头输出的尺寸，把画面正确的分开即可，[参考](https://blog.csdn.net/weixin_37857892/article/details/106319379)。
 2. 修改Cell2中的Line4 和 5以适配你的摄像头分辨率和帧率。
 
-3.打开MATLAB，在命令行输入
+3.打开MATLAB，在命令行输入：
 
 ```matlab
 stereoCameraCalibrator
